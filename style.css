@@ -217,7 +217,7 @@
   flex-direction: column;
   gap: 10px;
   font-family: 'Poppins', sans-serif;
-  padding: 8px 15px 0px 15px;
+  padding: 8px 15px 0 15px;
 }
 
 .about-head {
@@ -257,7 +257,7 @@
   color: #396df2;
   letter-spacing: 0.03em;
   line-height: 24px;
-  padding: 10px 4px 0px 8px ;
+  padding: 10px 4px 0 8px;
 }
 
 .skills {
@@ -266,7 +266,6 @@
   width: 88%;
   height: 100%;
   margin-top: 25px;
-
 }
 
 .skills h3 {
@@ -283,7 +282,7 @@
   list-style: none;
   display: flex;
   flex-direction: column;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .langs li {
@@ -334,7 +333,6 @@
   border-bottom: 2px solid #dfe1e6;
 }
 
-.section4{
+.section4 {
   background-color: white;
-
 }
