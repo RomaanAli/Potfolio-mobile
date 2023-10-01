@@ -205,8 +205,7 @@
   border-radius: 6px;
 }
 
-
-.about { 
+.about {
   background-color: white;
   width: 88%;
   height: 100%;
@@ -215,7 +214,6 @@
   flex-direction: column;
   gap: 10px;
   font-family: 'Poppins', sans-serif;
-
 }
 
 .about-head {
@@ -227,7 +225,7 @@
   color: #172b4d;
   margin-top: 70px;
   padding-bottom: 10px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .about-description {
@@ -239,8 +237,8 @@
   line-height: 24px;
   color: #344563;
   text-align: left;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .resume {
@@ -254,11 +252,10 @@
   margin-top: 10px;
   color: #396df2;
   letter-spacing: 0.03em;
-line-height: 24px;
-padding-top: 10px;
-padding-left: 8px;
-padding-right: 4px;
-
+  line-height: 24px;
+  padding-top: 10px;
+  padding-left: 8px;
+  padding-right: 4px;
 }
 
 .skills {
@@ -276,7 +273,6 @@ padding-right: 4px;
   width: 237px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
-
 }
 
 .langs {
@@ -308,7 +304,6 @@ padding-right: 4px;
   font-weight: 500;
   color: #253858;
   font-family: 'Poppins', sans-serif;
-
 }
 
 .arrow {
