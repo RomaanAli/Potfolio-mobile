@@ -90,7 +90,7 @@
   flex-direction: column;
   border-radius: 10px;
   border: 2px solid whitesmoke;
-  padding: 4px 5px;
+  padding: 10px 10px;
 }
 
 .snaps {
@@ -105,7 +105,8 @@
 .cardTitle {
   font-size: 32px;
   font-weight: 700;
-  margin: 0;
+  margin-top: 0p10;
+
 }
 
 .role {
