@@ -347,7 +347,7 @@ height: 779px;
 flex-shrink: 0;
 background-image: url(/Contact\ me\ \(1\).png);
 }
-.contact-me {
+.contact-text {
   color: var(--neutrals-n-0, #FFF);
 text-align: center;
 font-family: 'Poppins', sans-serif;
