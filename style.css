@@ -207,14 +207,17 @@
 }
 
 .about {
-  background-color: white;
+  border-radius: 8px 80px 8px 8px;
+  border: 2px solid  whitesmoke;
   width: 88%;
-  height: 100%;
-  margin-left: 30px;
+  height: 60%;
+  margin-left: 5px;
+  margin-right: 5px;
   display: flex;
   flex-direction: column;
   gap: 10px;
   font-family: 'Poppins', sans-serif;
+  padding: 8px 15px 0 15px;
 }
 
 .about-head {
@@ -224,7 +227,7 @@
   font-weight: 700;
   line-height: 52px;
   color: #172b4d;
-  margin-top: 70px;
+  margin-top: 90px;
   padding-bottom: 10px;
   margin-bottom: 0;
 }
@@ -254,16 +257,15 @@
   color: #396df2;
   letter-spacing: 0.03em;
   line-height: 24px;
-  padding-top: 10px;
-  padding-left: 8px;
-  padding-right: 4px;
+  padding: 10px 4px 0 8px;
 }
 
 .skills {
   background-color: white;
-  margin-left: 30px;
+  margin-left: 15px;
   width: 88%;
   height: 100%;
+  margin-top: 25px;
 }
 
 .skills h3 {
@@ -324,9 +326,13 @@
 }
 
 .margin {
-  margin-bottom: 150px;
+  margin-bottom: 25px;
 }
 
 .border {
   border-bottom: 2px solid #dfe1e6;
+}
+
+.section4 {
+  background-color: white;
 }
