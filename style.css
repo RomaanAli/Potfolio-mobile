@@ -2,7 +2,6 @@
 
 .header {
   width: 360px;
-  border: 2px solid black;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -204,4 +203,129 @@
   height: 230px;
   width: 300px;
   border-radius: 6px;
+}
+
+.about {
+  background-color: white;
+  width: 88%;
+  height: 100%;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about-head {
+  width: 312px;
+  height: 35px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+  margin-top: 70px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+.about-description {
+  font-family: 'Poppins', sans-serif;
+  width: 327px;
+  height: 147px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #344563;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.resume {
+  font-size: 17px;
+  font-weight: 500;
+  border: 1px solid #396df2;
+  font-family: 'Poppins', sans-serif;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 10px;
+  color: #396df2;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-left: 8px;
+  padding-right: 4px;
+}
+
+.skills {
+  background-color: white;
+  margin-left: 30px;
+  width: 88%;
+  height: 100%;
+}
+
+.skills h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  line-height: 24px;
+  width: 237px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.langs {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+}
+
+.langs li {
+  background-color: whitesmoke;
+  height: 100 px;
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.langs img {
+  width: 48px;
+  height: 48px;
+  margin-left: 12px;
+}
+
+.langs h4 {
+  margin-left: 30px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #253858;
+  font-family: 'Poppins', sans-serif;
+}
+
+.arrow {
+  width: 24px;
+  height: 24px;
+}
+
+.skills-heading {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 15px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 24px;
+}
+
+.margin {
+  margin-bottom: 150px;
+}
+
+.border {
+  border-bottom: 2px solid #dfe1e6;
 }
