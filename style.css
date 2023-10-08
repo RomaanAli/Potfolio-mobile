@@ -346,7 +346,8 @@
   width: 375px;
   height: 779px;
   flex-shrink: 0;
-  background-image: url(./Contact\ me\ \(1\).png);
+  background-color: #6070ff;
+  border-top-right-radius: 10px;
 }
 
 .contact-text {
