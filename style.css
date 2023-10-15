@@ -115,8 +115,8 @@
   transition: width 2s, height 2s, transform 2s;
 }
 
-.cardTitle:hover{
-  transform: rotate(1440deg) scale(.1);
+.cardTitle:hover {
+  transform: rotate(1440deg) scale(0.1);
   color: darkgreen;
 }
 
@@ -526,11 +526,12 @@ textarea::placeholder {
     margin-top: 15%;
     margin-left: 20%;
     transition: width 2s, height 2s, transform 2s;
-}
+  }
 
-.desk-intro:hover {
-  transform: translate(100%);
-}
+  .desk-intro:hover {
+    transform: translate(100%);
+  }
+
   .desk-description {
     color: #344563;
     position: relative;
