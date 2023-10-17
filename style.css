@@ -47,7 +47,8 @@
 }
 
 .intro:hover {
-  transform: translate(360px);
+  transform: rotate(1440deg) scale(0.1);
+  color: darkgreen;
 }
 
 .description {
@@ -115,9 +116,9 @@
   transition: width 2s, height 2s, transform 2s;
 }
 
-.cardTitle:hover {
-  transform: rotate(1440deg) scale(0.1);
-  color: darkgreen;
+.cardTitle:hover{
+  transform: translate(360px);
+
 }
 
 .role {
@@ -530,6 +531,9 @@ textarea::placeholder {
 
   .desk-intro:hover {
     transform: translate(100%);
+    transform: rotate(1440deg) scale(0.1);
+  color: darkgreen;
+}
   }
 
   .desk-description {
