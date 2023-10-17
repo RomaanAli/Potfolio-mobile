@@ -30,21 +30,15 @@
     HTML and CSS
 
 
-<
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
 - [Live Demo Link](https://romaanali.github.io/Potfolio-mobile/)
 
 
-
-
 ### Deployment
 
 You can deploy this project using Github Pages
-
-
 
 
 ## 👥 Authors <a name="authors"></a>
